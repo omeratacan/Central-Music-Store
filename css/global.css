@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html {
+    font-family: "Work Sans", sans-serif;
+  }
+  a {
+    text-decoration: none;
+    color: #fff;
+  }
+  .second-container {
+    max-width: 1264px;
+    margin: 0 auto;
+  }
+  .red-line {
+    border: 2px solid #ab0433;
+    width: 80px;
+    background-color: #ab0433;
+  }
+  .responsive {
+    display: none;
+  }
+  .white-line {
+    border: 1.5px solid #fff;
+    width: 58px;
+    background-color: #fff;
+  }

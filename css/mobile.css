@@ -1,0 +1,377 @@
+@media (max-width: 375px) {
+  .header {
+    background-image: url(/images/mobilebcg.png) !important;
+    width: 100%;
+    height: 500px;
+  }
+  .logo img {
+    width: 153px;
+    height: 24px;
+  }
+  .header-first-content {
+    height: 334px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .header-first-content p {
+    width: 75% !important;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-size: 32px;
+    line-height: 120%;
+    margin: 0 auto;
+  }
+  .navbarMenu img {
+    width: 24px;
+  }
+  .navbar ul {
+    display: none;
+  }
+  .navbar-icons a {
+    display: none;
+  }
+  .navbar {
+    margin: 0 auto;
+    margin-left: 1.5rem !important;
+    margin-right: 1.5rem !important;
+    height: 40px;
+  }
+  .header-content {
+    display: flex;
+    align-items: center;
+    height: 98px;
+  }
+  .lessons {
+    width: 100%;
+    height: 168px !important;
+    bottom: 1.5rem !important;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .lessons img {
+    width: 88%;
+    height: 168px !important;
+    border-radius: 10px;
+  }
+  
+  .lessons-content-info {
+    font-size: 10px;
+    width: 60% !important;
+  }
+  .lessons-content-header {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 21px;
+    font-weight: bold;
+    color: #fff;
+    width: 50% !important;
+    height: 55px;
+    margin: 4px 0px !important;
+  }
+  .lessons a {
+    font-size: 12px;
+    font-style: 600;
+    background-color: #ff753a;
+    padding: 8px 16px;
+    border-radius: 16px;
+    margin-top: 16px;
+  }
+  .section-products{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    margin-top: 139px;
+    margin-bottom: 40px;
+    
+  }
+  .section-products-guitar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0 auto;
+    
+  }
+  .section-products-item-comp {
+    margin-top: 2rem;
+  }
+  
+  .section-products-item {
+    background-image: url(/images/mobilke.png);
+    background-size: cover;
+  }
+  .section-products-cards {
+    width: 328px !important;
+  }
+  .img-position {
+    position: absolute;
+    left: 0px;
+  }
+  .section-products-header {
+    font-size: 24px;
+  }
+  .popular-finds {
+    width: 100%;
+    height: auto;
+    padding: 33px;
+  }
+  .second-responsive{
+    display: none;
+  }
+  .gear-heads{
+    height: auto !important;
+    padding: 24px;
+  }
+  
+  .gear-heads-item img {
+    width: 327px;
+    height: 311px;
+  }
+  .gear-heads-item{
+    height: 430px !important;
+  }
+ 
+  .gear-heads-items-positions{
+    height: auto;
+    display: flex;
+    justify-content: center;
+    height: 1927px !important;
+  }
+  .mobile-responsive {
+    display: none;
+  }
+  .footer {
+    padding: 0px !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center !important;
+  }
+  .row {
+    width: 75% !important;
+    display: flex;
+    justify-content: center;
+  }
+  .list-unstyled {
+    width: 190px;
+  }
+  .col-6 {
+    width: 190px;
+  }
+  .col-6 ul {
+    display: flex;
+    align-items: center !important;
+  }
+  .footer-right-side {
+    width: 100%;
+    height: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .footer-icons {
+    width: 146px;
+    height: 20px;
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 0px !important;
+  }
+  .last-row {
+    display: flex;
+    justify-content: center !important;
+    padding-left: 0px !important;
+  }
+}
+@media (max-width: 414px) {
+    .header {
+        background-image: url(/images/mobilebcg.png) !important;
+        width: 100%;
+        height: 500px;
+      }
+      .logo img {
+        width: 153px;
+        height: 24px;
+      }
+      .header-first-content {
+        height: 334px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .header-first-content p {
+        width: 75% !important;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        font-size: 32px;
+        line-height: 120%;
+        margin: 0 auto;
+      }
+      .navbar-menu img {
+        width: 24px;
+      }
+      .navbar ul {
+        display: none;
+      }
+      .navbar-icons a {
+        display: none;
+      }
+      .navbar {
+        margin: 0 auto;
+        margin-left: 1.5rem !important;
+        margin-right: 1.5rem !important;
+        height: 40px;
+      }
+      .header-content {
+        display: flex;
+        align-items: center;
+        height: 98px;
+      }
+      .lessons {
+        width: 100%;
+        height: 168px !important;
+        bottom: 1.5rem !important;
+        display: flex;
+        justify-content: space-between;
+      }
+    
+      .lessons img {
+        width: 88%;
+        height: 168px !important;
+        border-radius: 10px;
+      }
+      
+      .lessons-content-info {
+        font-size: 10px;
+        width: 60% !important;
+      }
+      .lessons-content-header {
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 21px;
+        font-weight: bold;
+        color: #fff;
+        width: 50% !important;
+        height: 55px;
+        margin: 4px 0px !important;
+      }
+      .lessons a {
+        font-size: 12px;
+        font-style: 600;
+        background-color: #ff753a;
+        padding: 8px 16px;
+        border-radius: 16px;
+        margin-top: 16px;
+      }
+      .section-products{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        margin-top: 139px;
+        
+      }
+      .section-products-guitar {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-around;
+        margin: 0 auto;
+        
+      }
+      .section-products-item-comp {
+        margin-top: 2rem;
+      }
+      
+      .section-products-item {
+        background-image: url(/images/mobilke.png);
+        background-size: cover;
+      }
+      .section-products-cards {
+        width: 328px !important;
+      }
+      .img-position {
+        position: absolute;
+        left: 0px;
+      }
+      .section-products-header {
+        font-size: 24px;
+      }
+      .popular-finds {
+        width: 100%;
+        height: auto;
+        padding: 33px;
+      }
+      .second-responsive{
+        display: none;
+      }
+      .gear-heads{
+        height: auto !important;
+        padding: 24px;
+      }
+      
+      .gear-heads-item img {
+        width: 300px;
+        height: 311px;
+      }
+      .gear-heads-item{
+        height: 430px !important;
+      }
+     
+      .gear-heads-items-positions{
+        height: auto;
+        display: flex;
+        justify-content: center;
+        height: 1927px !important;
+      }
+      .mobile-responsive {
+        display: none;
+      }
+      .footer {
+        padding: 0px !important;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center !important;
+      }
+      .row {
+        width: 75% !important;
+        display: flex;
+        justify-content: center;
+      }
+      .list-unstyled {
+        width: 190px;
+      }
+      .col-6 {
+        width: 190px;
+      }
+      .col-6 ul {
+        display: flex;
+        align-items: center !important;
+      }
+      .footer-right-side {
+        width: 100%;
+        height: 20px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+      }
+      .footer-icons {
+        width: 146px;
+        height: 20px;
+        display: flex;
+        justify-content: flex-start;
+        padding-top: 0px !important;
+      }
+      .last-row {
+        display: flex;
+        justify-content: center !important;
+        padding-left: 0px !important;
+      }
+    }
+
+

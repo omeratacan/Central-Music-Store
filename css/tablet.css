@@ -1,0 +1,196 @@
+@media (max-width: 1025px) {
+  .header {
+    background-image: url(/images/Rectangle\ 79.png);
+  }
+  .navbar ul {
+    display: none;
+  }
+  .navbar-icons a {
+    display: none;
+  }
+  .header-first-content p {
+    width: 56%;
+    margin-left: 4.5rem;
+  }
+  
+  .navbar {
+    margin-left: 4.5rem;
+    margin-right: 4.5rem;
+    display: flex;
+  }
+  .lessons {
+    width: 100%;
+    height: 280px;
+    bottom: -12rem;
+    display: flex;
+    justify-content: space-between;
+  }
+  .lessons-img {
+    display: flex;
+    justify-content: center;
+  }
+  .lessons img {
+    width: 88%;
+    height: 280px;
+  }
+  .lessons-content {
+    width: 100%;
+  }
+  .lessons-content-info {
+    width: 54%;
+  }
+  .navbarMenu {
+    display: block;
+    cursor: pointer;
+    color: #fff;
+  }
+  .section-products{
+    width: 100%;
+    height: 1041px;
+    display: flex;
+    flex-direction: column;
+    
+  }
+  .section-products-cards {
+    width: 432px;
+    
+  }
+  .section-products-item {
+    background-size: cover;
+  }
+  .section-products-guitar {
+    
+    display: flex;
+    flex-wrap: wrap;
+    
+    margin-right: 64px;
+    margin-left: 64px;
+  }
+  .section-products-item-comp {
+    margin-top: 2rem;
+  }
+  .section-products-item-comp-responsive {
+    display: block;
+  }
+  .popular-finds {
+    width: 100%;
+    height: 1098px;
+  }
+  .popular-finds-items{
+    width: 105%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    
+  }
+  .popular-finds-item {
+    
+    margin-top: 24px;
+  }
+  .responsive {
+    display: block;
+  }
+  .second-responsive{
+    display: none;
+  }
+  .responsive-white {
+    background-color: #EAEAEA;
+    color: #202020;
+  }
+  .row {
+    width: 35%;
+  }
+  
+  #navbarIcons {
+    display: flex;
+    width: 5.5rem;
+  }
+  #navbarIcons a img {
+    width: 40px;
+    padding: 8px;
+    height: 40px;
+  }
+  
+}
+@media (max-width: 768px) {
+  .header-first-content p {
+    width: 46%;
+    margin-left: 3rem;
+  }
+  .navbar {
+    margin-left: 3rem;
+    margin-right: 3rem;
+    display: flex;
+  }
+  .lessons {
+    width: 100%;
+    height: auto;
+    bottom: -7.5rem;
+    display: flex;
+    justify-content: space-between;
+  }
+  .lessons-content-header {
+    text-align: center;
+    margin-bottom: 40px;
+    width: 75%;
+    height: 55px;
+  }
+  .lessons-content-info {
+    width: 70%;
+  }
+  .lessons img {
+    width: 88%;
+    height: 280px;
+  }
+  .section-products{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 100px;
+  }
+  .section-products-guitar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    
+  }
+  .section-products-item-comp {
+    margin-top: 2rem;
+  }
+  
+  .section-products-item {
+    background-size: cover;
+  }
+  .popular-finds {
+    width: 100%;
+    height: auto;
+    
+  }
+  .popular-finds-items{
+    width: 105%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+    
+  }
+  .popular-finds-item {
+    margin-top: 24px;
+  }
+  .responsive {
+    display: block;
+  }
+  .second-responsive{
+    display: none;
+  }
+  .gear-heads{
+    height: auto !important;
+  }
+  .gear-heads-items-positions{
+    height: auto;
+    display: flex;
+    justify-content: center;
+  }
+}
